@@ -1,0 +1,2650 @@
+{
+  "data": [
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be2ef",
+      "symbol": "H",
+      "name": "Vodorod",
+      "category": "Metallmas",
+      "discovBy": "Kavendish",
+      "discovYear": "1766",
+      "atomicProp": {
+        "electrConfig": "1s1"
+      },
+      "elementProp": {
+        "atomicNumber": 1,
+        "atomicMass": 1.00784
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Genri Kavendish"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya, Fransiya ",
+        "code": "GBR, FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f0",
+      "symbol": "He",
+      "name": "Geliy",
+      "category": "Inert gazi",
+      "discovBy": "Jansen, Lokyer",
+      "discovYear": "1895",
+      "atomicProp": {
+        "electrConfig": "1s2"
+      },
+      "elementProp": {
+        "atomicNumber": 2,
+        "atomicMass": 4.0026
+      },
+      "flag": "UK_FR.png",
+      "discovYearFullName": "Pyer Jyul Sezar Jansen, Jozef Norman Lokyer"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f1",
+      "symbol": "Li",
+      "name": "Litiy",
+      "category": "Ishqoriy",
+      "discovBy": "Arfvedson",
+      "discovYear": "1817",
+      "atomicProp": {
+        "electrConfig": "[He]2s1 = 1s2 2s1"
+      },
+      "elementProp": {
+        "atomicNumber": 3,
+        "atomicMass": 6.941
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Iogann Arfvedson"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f2",
+      "symbol": "Be",
+      "name": "Berilliy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "Voklen",
+      "discovYear": "1798",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 = 1s2 2s2"
+      },
+      "elementProp": {
+        "atomicNumber": 4,
+        "atomicMass": 9.0121
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Lui Nikolas Voklen"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f3",
+      "symbol": "B",
+      "name": "Bor",
+      "category": "Yarim metall",
+      "discovBy": "Gey-Lyussak, Tenar, Deyvi",
+      "discovYear": "1808",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 2p1 = 1s2 2s2 2p1"
+      },
+      "elementProp": {
+        "atomicNumber": 5,
+        "atomicMass": 10.811
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Jozef Lui Gey-Lyussak, Lui Jak Tenar, Xamfri Deyvi"
+    },
+    {
+      "discovCountry": {
+        "name": "",
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be2f4",
+      "symbol": "C",
+      "name": "Uglerod",
+      "category": "Metallmas",
+      "discovBy": "Lavuazye",
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 2p2 = 1s2 2s2 2p2"
+      },
+      "elementProp": {
+        "atomicNumber": 6,
+        "atomicMass": 12.0107
+      },
+      "discovYearFullName": "Antuan Loran Lavuazye"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f5",
+      "symbol": "N",
+      "name": "Azot",
+      "category": "Metallmas",
+      "discovBy": "Rezerford",
+      "discovYear": "1772",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 2p3 = 1s2 2s2 2p3"
+      },
+      "elementProp": {
+        "atomicNumber": 7,
+        "atomicMass": 14.0067
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Daniyel Rezerford"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f6",
+      "symbol": "O",
+      "name": "Kislorod",
+      "category": "Metallmas",
+      "discovBy": "Sendzivoy, Pristli, Sheyele",
+      "discovYear": "1774",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 2p4 = 1s2 2s2 2p4"
+      },
+      "elementProp": {
+        "atomicNumber": 8,
+        "atomicMass": 15.9994
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Mixal Sendzivoy, Jozef Pristli, Karl Vilgelm Sheyele"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f7",
+      "symbol": "F",
+      "name": "Ftor",
+      "category": "Galogen",
+      "discovBy": "Moassan",
+      "discovYear": "1886",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 2p5 = 1s2 2s2 2p5"
+      },
+      "elementProp": {
+        "atomicNumber": 9,
+        "atomicMass": 18.9984
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Anri Moassan"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f8",
+      "symbol": "Ne",
+      "name": "Neon",
+      "category": "Inert gazi",
+      "discovBy": "Ramzey, Travers",
+      "discovYear": "1898",
+      "atomicProp": {
+        "electrConfig": "[He]2s2 2p6 = 1s2 2s2 2p6"
+      },
+      "elementProp": {
+        "atomicNumber": 10,
+        "atomicMass": 20.1797
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Ramzey, Travers, Moris Uilyam"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be2f9",
+      "symbol": "Na",
+      "name": "Natriy",
+      "category": "Ishqoriy",
+      "discovBy": "Deyvi",
+      "discovYear": "1807",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s1 = 1s2 2s2 2p6 3s1"
+      },
+      "elementProp": {
+        "atomicNumber": 11,
+        "atomicMass": 22.9897
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Xamfri Deyvi"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be2fa",
+      "symbol": "Mg",
+      "name": "Magniy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "Blek, Deyvi",
+      "discovYear": "1808",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 = 1s2 2s2 2p6 3s2"
+      },
+      "elementProp": {
+        "atomicNumber": 12,
+        "atomicMass": 24.305
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Jozef Blek, Xamfri Deyvi"
+    },
+    {
+      "discovCountry": {
+        "name": "Daniya ",
+        "code": "DNK"
+      },
+      "_id": "630e0ade1ca9cba12c1be2fb",
+      "symbol": "Al",
+      "name": "Alyuminiy",
+      "category": "Metallsimon",
+      "discovBy": "Ersted",
+      "discovYear": "1825",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 3p1 = 1s2 2s2 2p6 3s2 3p1"
+      },
+      "elementProp": {
+        "atomicNumber": 13,
+        "atomicMass": 26.9815
+      },
+      "flag": "Denmark.png",
+      "discovYearFullName": "Xans Kristian Ersted"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be2fc",
+      "symbol": "Si",
+      "name": "Kremniy",
+      "category": "Yarim metall",
+      "discovBy": "Berselius",
+      "discovYear": "1824",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 3p2 = 1s2 2s2 2p6 3s2 3p2"
+      },
+      "elementProp": {
+        "atomicNumber": 14,
+        "atomicMass": 28.0855
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Berselius, Yens Yakob"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be2fd",
+      "symbol": "P",
+      "name": "Fosfor",
+      "category": "Metallmas",
+      "discovBy": "Brend",
+      "discovYear": "1669",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 3p3 = 1s2 2s2 2p6 3s2 3p3"
+      },
+      "elementProp": {
+        "atomicNumber": 15,
+        "atomicMass": 30.9737
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Hennig Brend"
+    },
+    {
+      "discovCountry": {
+        "name": "",
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be2fe",
+      "symbol": "S",
+      "name": "Oltingugurt",
+      "category": "Metallmas",
+      "discovBy": "",
+      "discovYear": "Miloddan avvalgi 600-yilgacha",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 3p4 = 1s2 2s2 2p6 3s2 3p4"
+      },
+      "elementProp": {
+        "atomicNumber": 16,
+        "atomicMass": 32.065
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be2ff",
+      "symbol": "Cl",
+      "name": "Xlor",
+      "category": "Galogen",
+      "discovBy": "Sheyele",
+      "discovYear": "1774",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 3p5 = 1s2 2s2 2p6 3s2 3p5"
+      },
+      "elementProp": {
+        "atomicNumber": 17,
+        "atomicMass": 35.453
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Karl Vilgelm Sheyele"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be300",
+      "symbol": "Ar",
+      "name": "Argon",
+      "category": "Inert gazi",
+      "discovBy": "Ramzey",
+      "discovYear": "1894",
+      "atomicProp": {
+        "electrConfig": "[Ne]3s2 3p6 = 1s2 2s2 2p6 3s2 3p6"
+      },
+      "elementProp": {
+        "atomicNumber": 18,
+        "atomicMass": 39.948
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Ramzey"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be301",
+      "symbol": "K",
+      "name": "Kaliy",
+      "category": "Ishqoriy",
+      "discovBy": "Deyvi",
+      "discovYear": "1807",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s1 = 1s2 2s2 2p6 3s2 3p6 4s1"
+      },
+      "elementProp": {
+        "atomicNumber": 19,
+        "atomicMass": 39.0983
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Xamfri Deyvi"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be302",
+      "symbol": "Ca",
+      "name": "Kalsiy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "Deyvi",
+      "discovYear": "1808",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 = 1s2 2s2 2p6 3s2 3p6 4s2"
+      },
+      "elementProp": {
+        "atomicNumber": 20,
+        "atomicMass": 40.078
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Xamfri Deyvi"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be303",
+      "symbol": "Sc",
+      "name": "Skandiy",
+      "category": "Oraliq element",
+      "discovBy": "Nilson",
+      "discovYear": "1879",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d1"
+      },
+      "elementProp": {
+        "atomicNumber": 21,
+        "atomicMass": 44.9559
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Lars Frederik Nilson"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be304",
+      "symbol": "Ti",
+      "name": "Titan",
+      "category": "Oraliq element",
+      "discovBy": "Gregor",
+      "discovYear": "1795",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d2"
+      },
+      "elementProp": {
+        "atomicNumber": 22,
+        "atomicMass": 47.867
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Gregor"
+    },
+    {
+      "discovCountry": {
+        "name": "Ispaniya",
+        "code": "ESP"
+      },
+      "_id": "630e0ade1ca9cba12c1be305",
+      "symbol": "V",
+      "name": "Vanadiy",
+      "category": "Oraliq element",
+      "discovBy": "Rio",
+      "discovYear": "1830",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d3 = 1s2 2s2 2p6 3s2 3p6 4s2 3d3"
+      },
+      "elementProp": {
+        "atomicNumber": 23,
+        "atomicMass": 50.9415
+      },
+      "flag": "Espana.png",
+      "discovYearFullName": "Andres Manuel del Rio"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be306",
+      "symbol": "Cr",
+      "name": "Xrom",
+      "category": "Oraliq element",
+      "discovBy": "Voklen",
+      "discovYear": "1797",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s1 3d5 = 1s2 2s2 2p6 3s2 3p6 4s1 3d5"
+      },
+      "elementProp": {
+        "atomicNumber": 24,
+        "atomicMass": 51.9961
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Lui Nikola Voklen"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be307",
+      "symbol": "Mn",
+      "name": "Marganes",
+      "category": "Oraliq element",
+      "discovBy": "Gan, Kaym",
+      "discovYear": "1774",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d5 = 1s2 2s2 2p6 3s2 3p6 4s2 3d5"
+      },
+      "elementProp": {
+        "atomicNumber": 25,
+        "atomicMass": 54.938
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Yuxan Gotlib Gan, Ignatiy Gotfrid Kaym"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be308",
+      "symbol": "Fe",
+      "name": "Temir",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d6 = 1s2 2s2 2p6 3s2 3p6 4s2 3d6"
+      },
+      "elementProp": {
+        "atomicNumber": 26,
+        "atomicMass": 55.845
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be309",
+      "symbol": "Co",
+      "name": "Kobalt",
+      "category": "Oraliq element",
+      "discovBy": "Brandt",
+      "discovYear": "1735",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d7 = 1s2 2s2 2p6 3s2 3p6 4s2 3d7"
+      },
+      "elementProp": {
+        "atomicNumber": 27,
+        "atomicMass": 58.9331
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Jorj Brandt"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be30a",
+      "symbol": "Ni",
+      "name": "Nikel",
+      "category": "Oraliq element",
+      "discovBy": "Kronstedt",
+      "discovYear": "1751",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d8 = 1s2 2s2 2p6 3s2 3p6 4s2 3d8"
+      },
+      "elementProp": {
+        "atomicNumber": 28,
+        "atomicMass": 58.6934
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Aksel Kronstedt"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be30b",
+      "symbol": "Cu",
+      "name": "Mis",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s1 3d10 = 1s2 2s2 2p6 3s2 3p6 4s1 3d10"
+      },
+      "elementProp": {
+        "atomicNumber": 29,
+        "atomicMass": 63.546
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be30c",
+      "symbol": "Zn",
+      "name": "Rux",
+      "category": "Oraliq element",
+      "discovBy": "Marggraf",
+      "discovYear": "1746",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10"
+      },
+      "elementProp": {
+        "atomicNumber": 30,
+        "atomicMass": 65.38
+      },
+      "discovYearFullName": "Andreas Sigizmund Marggraf"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be30d",
+      "symbol": "Ga",
+      "name": "Galliy",
+      "category": "Metallsimon",
+      "discovBy": "Lekok de Buaboran",
+      "discovYear": "1875",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 4p1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1"
+      },
+      "elementProp": {
+        "atomicNumber": 31,
+        "atomicMass": 69.723
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Pol Emil Lekok de Buaboran"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be30e",
+      "symbol": "Ge",
+      "name": "Germaniy",
+      "category": "Yarim metall",
+      "discovBy": "Vinkler",
+      "discovYear": "1886",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 4p2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2"
+      },
+      "elementProp": {
+        "atomicNumber": 32,
+        "atomicMass": 72.64
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Klemens Aleksandr Vinkler"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be30f",
+      "symbol": "As",
+      "name": "Mishyak",
+      "category": "Yarim metall",
+      "discovBy": "Magnus",
+      "discovYear": "1250",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 4p3 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3"
+      },
+      "elementProp": {
+        "atomicNumber": 33,
+        "atomicMass": 74.9216
+      },
+      "discovYearFullName": "Albertus Magnus"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be310",
+      "symbol": "Se",
+      "name": "Selen",
+      "category": "Metallmas",
+      "discovBy": "Bertselius",
+      "discovYear": "1817",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 4p4 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4"
+      },
+      "elementProp": {
+        "atomicNumber": 34,
+        "atomicMass": 78.96
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Bertselius, Yons Yakob"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be311",
+      "symbol": "Br",
+      "name": "Brom",
+      "category": "Galogen",
+      "discovBy": "Balar, Lyovix",
+      "discovYear": "1826",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 4p5 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5"
+      },
+      "elementProp": {
+        "atomicNumber": 35,
+        "atomicMass": 79.904
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Antuan Yerom Balar, Karl Yakob Lyovix"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be312",
+      "symbol": "Kr",
+      "name": "Kripton",
+      "category": "Inert gazi",
+      "discovBy": "Ramzey, Travers",
+      "discovYear": "1898",
+      "atomicProp": {
+        "electrConfig": "[Ar]4s2 3d10 4p6 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6"
+      },
+      "elementProp": {
+        "atomicNumber": 36,
+        "atomicMass": 83.798
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Ramzey, Travers, Moris Uilyam"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be313",
+      "symbol": "Rb",
+      "name": "Rubidiy",
+      "category": "Ishqoriy",
+      "discovBy": "Bunzen, Kirxgof",
+      "discovYear": "1861",
+      "atomicProp": {
+        "electrConfig": "[Kr]5s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1"
+      },
+      "elementProp": {
+        "atomicNumber": 37,
+        "atomicMass": 85.467
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Robert Vilgelm Bunzen, Gustav Kirxgof"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be314",
+      "symbol": "Sr",
+      "name": "Stronsiy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "Kroford",
+      "discovYear": "1790",
+      "atomicProp": {
+        "electrConfig": "[Kr]5s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2"
+      },
+      "elementProp": {
+        "atomicNumber": 38,
+        "atomicMass": 87.62
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Ader Kroford"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be315",
+      "symbol": "Y",
+      "name": "Ittriy",
+      "category": "Oraliq element",
+      "discovBy": "Gadolin",
+      "discovYear": "1794",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d1 5s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1"
+      },
+      "elementProp": {
+        "atomicNumber": 39,
+        "atomicMass": 88.905
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Yuxan Gadolin"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be316",
+      "symbol": "Zr",
+      "name": "Sirkoniy",
+      "category": "Oraliq element",
+      "discovBy": "Klaprot",
+      "discovYear": "1789",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d2 5s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2"
+      },
+      "elementProp": {
+        "atomicNumber": 40,
+        "atomicMass": 91.224
+      },
+      "discovYearFullName": "Martin Genrix Klaprot"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be317",
+      "symbol": "Nb",
+      "name": "Niobiy",
+      "category": "Oraliq element",
+      "discovBy": "Xetchett",
+      "discovYear": "1801",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d4 5s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d4"
+      },
+      "elementProp": {
+        "atomicNumber": 41,
+        "atomicMass": 92.906
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Charlz Xetchett"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be318",
+      "symbol": "Mo",
+      "name": "Molibden",
+      "category": "Oraliq element",
+      "discovBy": "Sheyele",
+      "discovYear": "1778",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d5 5s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d5"
+      },
+      "elementProp": {
+        "atomicNumber": 42,
+        "atomicMass": 95.94
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Karl Vilgelm Sheyele"
+    },
+    {
+      "discovCountry": {
+        "name": "Italiya",
+        "code": "ITA"
+      },
+      "_id": "630e0ade1ca9cba12c1be319",
+      "symbol": "Tc",
+      "name": "Texnetsiy",
+      "category": "Oraliq element",
+      "discovBy": "Segre, Perye",
+      "discovYear": "1937",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d5 5s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5"
+      },
+      "elementProp": {
+        "atomicNumber": 43,
+        "atomicMass": 98.906
+      },
+      "flag": "Italy.png",
+      "discovYearFullName": "Emilio Djino Segre, Karlo Perye"
+    },
+    {
+      "discovCountry": {
+        "name": "Rossiya",
+        "code": "RUS"
+      },
+      "_id": "630e0ade1ca9cba12c1be31a",
+      "symbol": "Ru",
+      "name": "Ruteniy",
+      "category": "Oraliq element",
+      "discovBy": "Klaus",
+      "discovYear": "1844",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d7 5s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d7"
+      },
+      "elementProp": {
+        "atomicNumber": 44,
+        "atomicMass": 101.07
+      },
+      "flag": "Russia.png",
+      "discovYearFullName": "Karl Karlovich Klaus"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be31b",
+      "symbol": "Rh",
+      "name": "Rodiy",
+      "category": "Oraliq element",
+      "discovBy": "Vollaston",
+      "discovYear": "1804",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d8 5s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d8"
+      },
+      "elementProp": {
+        "atomicNumber": 45,
+        "atomicMass": 102.905
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Xayd Vollaston"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be31c",
+      "symbol": "Pd",
+      "name": "Palladiy",
+      "category": "Oraliq element",
+      "discovBy": "Vollaston",
+      "discovYear": "1803",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 4d10"
+      },
+      "elementProp": {
+        "atomicNumber": 46,
+        "atomicMass": 106.42
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Xayd Vollaston"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be31d",
+      "symbol": "Ag",
+      "name": "Kumush",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1 4d10"
+      },
+      "elementProp": {
+        "atomicNumber": 47,
+        "atomicMass": 107.868
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be31e",
+      "symbol": "Cd",
+      "name": "Kadmiy",
+      "category": "Oraliq element",
+      "discovBy": "Stromeyer",
+      "discovYear": "1817",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10"
+      },
+      "elementProp": {
+        "atomicNumber": 48,
+        "atomicMass": 112.411
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Fridrix Stromeyer"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be31f",
+      "symbol": "In",
+      "name": "Indiy",
+      "category": "Metallsimon",
+      "discovBy": "Rayx",
+      "discovYear": "1863",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 5p1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1"
+      },
+      "elementProp": {
+        "atomicNumber": 49,
+        "atomicMass": 114.818
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Ferdinand Rayx"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be320",
+      "symbol": "Sn",
+      "name": "Qalay",
+      "category": "Metallsimon",
+      "discovBy": null,
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 5p2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2"
+      },
+      "elementProp": {
+        "atomicNumber": 50,
+        "atomicMass": 118.71
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be321",
+      "symbol": "Sb",
+      "name": "Surma",
+      "category": "Yarim metall",
+      "discovBy": "V. Valentin",
+      "discovYear": "Miloddan avvalgi 3000-yilgacha",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 5p3 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3"
+      },
+      "elementProp": {
+        "atomicNumber": 51,
+        "atomicMass": 121.76
+      },
+      "discovYearFullName": "Vasiliy Valentin"
+    },
+    {
+      "discovCountry": {
+        "name": "Avstriya-Vengriya",
+        "code": "AUT-HUN"
+      },
+      "_id": "630e0ade1ca9cba12c1be322",
+      "symbol": "Te",
+      "name": "Tellur",
+      "category": "Yarim metall",
+      "discovBy": null,
+      "discovYear": "1782",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 5p4 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4"
+      },
+      "elementProp": {
+        "atomicNumber": 52,
+        "atomicMass": 127.6
+      },
+      "flag": "Hungary.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be323",
+      "symbol": "I",
+      "name": "Yod",
+      "category": "Galogen",
+      "discovBy": "Kurtua",
+      "discovYear": "1811",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 5p5 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5"
+      },
+      "elementProp": {
+        "atomicNumber": 53,
+        "atomicMass": 126.904
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Bernar Kurtua"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be324",
+      "symbol": "Xe",
+      "name": "Ksenon",
+      "category": "Inert gazi",
+      "discovBy": "Ramzey, Travers",
+      "discovYear": "1898",
+      "atomicProp": {
+        "electrConfig": "[Kr]4d10 5s2 5p6 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6"
+      },
+      "elementProp": {
+        "atomicNumber": 54,
+        "atomicMass": 131.293
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Ramzey, Travers, Moris Uilyam"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be325",
+      "symbol": "Cs",
+      "name": "Seziy",
+      "category": "Ishqoriy",
+      "discovBy": "Bunzen, Kirxgof",
+      "discovYear": "1860",
+      "atomicProp": {
+        "electrConfig": "[Xe]6s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1"
+      },
+      "elementProp": {
+        "atomicNumber": 55,
+        "atomicMass": 132.905
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Robert Vilgelm Bunzen, Gustav Kirxgof"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be326",
+      "symbol": "Ba",
+      "name": "Bariy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "Deyvi",
+      "discovYear": "1774",
+      "atomicProp": {
+        "electrConfig": "[Xe]6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2"
+      },
+      "elementProp": {
+        "atomicNumber": 56,
+        "atomicMass": 137.327
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Xamfri Deyvi"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be327",
+      "symbol": "La",
+      "name": "Lantan",
+      "category": "Lantanid",
+      "discovBy": "Mosander",
+      "discovYear": "1839",
+      "atomicProp": {
+        "electrConfig": "[Xe]5d1 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f0 5d1"
+      },
+      "elementProp": {
+        "atomicNumber": 57,
+        "atomicMass": 138.905
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Karl Gustav Mosander"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be328",
+      "symbol": "Ce",
+      "name": "Seriy",
+      "category": "Lantanid",
+      "discovBy": null,
+      "discovYear": "1803",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f1 5d1 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f1 5d1"
+      },
+      "elementProp": {
+        "atomicNumber": 58,
+        "atomicMass": 140.116
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Avstriya-Vengriya",
+        "code": "AUT-HUN"
+      },
+      "_id": "630e0ade1ca9cba12c1be329",
+      "symbol": "Pr",
+      "name": "Prazeodim",
+      "category": "Lantanid",
+      "discovBy": "Debyern",
+      "discovYear": "1885",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f3 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3"
+      },
+      "elementProp": {
+        "atomicNumber": 59,
+        "atomicMass": 140.904
+      },
+      "flag": "Hungary.png",
+      "discovYearFullName": "Andre-Lui Debyern"
+    },
+    {
+      "discovCountry": {
+        "name": "Avstriya-Vengriya",
+        "code": "AUT-HUN"
+      },
+      "_id": "630e0ade1ca9cba12c1be32a",
+      "symbol": "Nd",
+      "name": "Neodim",
+      "category": "Lantanid",
+      "discovBy": "Auer fon Uelsbax",
+      "discovYear": "1885",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f4 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4"
+      },
+      "elementProp": {
+        "atomicNumber": 60,
+        "atomicMass": 144.242
+      },
+      "flag": "Hungary.png",
+      "discovYearFullName": "Karl Auer fon Uelsbax"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be32b",
+      "symbol": "Pm",
+      "name": "Prometiy",
+      "category": "Lantanid",
+      "discovBy": null,
+      "discovYear": "1945",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f5 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5"
+      },
+      "elementProp": {
+        "atomicNumber": 61,
+        "atomicMass": 144.912
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be32c",
+      "symbol": "Sm",
+      "name": "Samariy",
+      "category": "Lantanid",
+      "discovBy": "Lekok de Buabodran",
+      "discovYear": "1879",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f6 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6"
+      },
+      "elementProp": {
+        "atomicNumber": 62,
+        "atomicMass": 150.36
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Pol Emil Lekok de Buabodran"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be32d",
+      "symbol": "Eu",
+      "name": "Yevropiy",
+      "category": "Lantanid",
+      "discovBy": "Demars",
+      "discovYear": "1901",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f7 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7"
+      },
+      "elementProp": {
+        "atomicNumber": 63,
+        "atomicMass": 151.964
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Demars Ejen Anatol"
+    },
+    {
+      "discovCountry": {
+        "name": "Shveysariya",
+        "code": "CHE"
+      },
+      "_id": "630e0ade1ca9cba12c1be32e",
+      "symbol": "Gd",
+      "name": "Gadoliniy",
+      "category": "Lantanid",
+      "discovBy": "Galissar de Marinyak",
+      "discovYear": "1886",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f7 5d1 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7 5d1"
+      },
+      "elementProp": {
+        "atomicNumber": 64,
+        "atomicMass": 157.25
+      },
+      "flag": "Switzerland.png",
+      "discovYearFullName": "Jan Sharl Galissar de Marinyak"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be32f",
+      "symbol": "Tb",
+      "name": "Terbiy",
+      "category": "Lantanid",
+      "discovBy": "Mosander",
+      "discovYear": "1843",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f9 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9"
+      },
+      "elementProp": {
+        "atomicNumber": 65,
+        "atomicMass": 158.925
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Karl Gustav Mosander"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be330",
+      "symbol": "Dy",
+      "name": "Disproziy",
+      "category": "Lantanid",
+      "discovBy": "Lekok de Buabodran",
+      "discovYear": "1886",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f10 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10"
+      },
+      "elementProp": {
+        "atomicNumber": 66,
+        "atomicMass": 162.5
+      },
+      "discovYearFullName": "Pol Emil Lekok de Buabodran"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be331",
+      "symbol": "Ho",
+      "name": "Golmiy",
+      "category": "Lantanid",
+      "discovBy": "Kliv, Charlois",
+      "discovYear": "1878",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f11 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11"
+      },
+      "elementProp": {
+        "atomicNumber": 67,
+        "atomicMass": 164.93
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Teodor Kliv uchun, Auguste Charlois"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be332",
+      "symbol": "Er",
+      "name": "Erbiy",
+      "category": "Lantanid",
+      "discovBy": "Mosander",
+      "discovYear": "1842",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f12 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12"
+      },
+      "elementProp": {
+        "atomicNumber": 68,
+        "atomicMass": 167.259
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Karl Gustav Mosander"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be333",
+      "symbol": "Tm",
+      "name": "Tuliy",
+      "category": "Lantanid",
+      "discovBy": null,
+      "discovYear": "1879",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f13 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13"
+      },
+      "elementProp": {
+        "atomicNumber": 69,
+        "atomicMass": 168.934
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Shveysariya",
+        "code": "CHE"
+      },
+      "_id": "630e0ade1ca9cba12c1be334",
+      "symbol": "Yb",
+      "name": "Itterbiy",
+      "category": "Lantanid",
+      "discovBy": "Galissar de Marinyak",
+      "discovYear": "1878",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14"
+      },
+      "elementProp": {
+        "atomicNumber": 70,
+        "atomicMass": 173.04
+      },
+      "flag": "Switzerland.png",
+      "discovYearFullName": "Jan Sharl Galissar de Marinyak"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be335",
+      "symbol": "Lu",
+      "name": "Lyutetsiy",
+      "category": "Lantanid",
+      "discovBy": null,
+      "discovYear": "1907",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d1 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d1"
+      },
+      "elementProp": {
+        "atomicNumber": 71,
+        "atomicMass": 174.967
+      },
+      "flag": "France.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Daniya ",
+        "code": "DNK"
+      },
+      "_id": "630e0ade1ca9cba12c1be336",
+      "symbol": "Hf",
+      "name": "Gafniy",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "1923",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d2 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d2"
+      },
+      "elementProp": {
+        "atomicNumber": 72,
+        "atomicMass": 178.49
+      },
+      "flag": "Denmark.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be337",
+      "symbol": "Ta",
+      "name": "Tantal",
+      "category": "Oraliq element",
+      "discovBy": "Ekeberg",
+      "discovYear": "1802",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d3 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d3"
+      },
+      "elementProp": {
+        "atomicNumber": 73,
+        "atomicMass": 180.947
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Anders Gustaf Ekeberg"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be338",
+      "symbol": "W",
+      "name": "Volfram",
+      "category": "Oraliq element",
+      "discovBy": "Sheyele",
+      "discovYear": "1781",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d4 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d4"
+      },
+      "elementProp": {
+        "atomicNumber": 74,
+        "atomicMass": 183.84
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Karl Vilgelm Sheyele"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be339",
+      "symbol": "Re",
+      "name": "Reniy",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "1925",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d5 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d5"
+      },
+      "elementProp": {
+        "atomicNumber": 75,
+        "atomicMass": 186.207
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be33a",
+      "symbol": "Os",
+      "name": "Osmiy",
+      "category": "Oraliq element",
+      "discovBy": "Tennant",
+      "discovYear": "1804",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d6 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d6"
+      },
+      "elementProp": {
+        "atomicNumber": 76,
+        "atomicMass": 190.23
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Smitson Tennant"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be33b",
+      "symbol": "Ir",
+      "name": "Iridiy",
+      "category": "Oraliq element",
+      "discovBy": "Tennant",
+      "discovYear": "1804",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d7 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d7"
+      },
+      "elementProp": {
+        "atomicNumber": 77,
+        "atomicMass": 192.217
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Smitson Tennant"
+    },
+    {
+      "discovCountry": {
+        "name": "Ispaniya ",
+        "code": "ESP"
+      },
+      "_id": "630e0ade1ca9cba12c1be33c",
+      "symbol": "Pt",
+      "name": "Platina",
+      "category": "Oraliq element",
+      "discovBy": "Uloa",
+      "discovYear": "1735",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d9 6s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 4f14 5d9 6s1"
+      },
+      "elementProp": {
+        "atomicNumber": 78,
+        "atomicMass": 195.084
+      },
+      "flag": "Espana.png",
+      "discovYearFullName": "Antonio de Uloa"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be33d",
+      "symbol": "Au",
+      "name": "Oltin",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 4f14 5d10 6s1"
+      },
+      "elementProp": {
+        "atomicNumber": 79,
+        "atomicMass": 196.966
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be33e",
+      "symbol": "Hg",
+      "name": "Simob",
+      "category": "Oraliq element",
+      "discovBy": null,
+      "discovYear": "Miloddan avvalgi 1500-yilgacha",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 4f14 5d10 6s2"
+      },
+      "elementProp": {
+        "atomicNumber": 80,
+        "atomicMass": 200.59
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Buyuk Britaniya",
+        "code": "GBR"
+      },
+      "_id": "630e0ade1ca9cba12c1be33f",
+      "symbol": "Tl",
+      "name": "Talliy",
+      "category": "Metallsimon",
+      "discovBy": "Kruks",
+      "discovYear": "1861",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 6p1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p1"
+      },
+      "elementProp": {
+        "atomicNumber": 81,
+        "atomicMass": 204.383
+      },
+      "flag": "United_Kingdom.png",
+      "discovYearFullName": "Uilyam Kruks"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be340",
+      "symbol": "Pb",
+      "name": "Qoʻrgʻoshin",
+      "category": "Metallsimon",
+      "discovBy": null,
+      "discovYear": "Qadimiy",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 6p2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p2"
+      },
+      "elementProp": {
+        "atomicNumber": 82,
+        "atomicMass": 207.2
+      },
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be341",
+      "symbol": "Bi",
+      "name": "Vismut",
+      "category": "Metallsimon",
+      "discovBy": "Joffrua",
+      "discovYear": "1450",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 6p3 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p3"
+      },
+      "elementProp": {
+        "atomicNumber": 83,
+        "atomicMass": 208.9804
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Klod Fransua Joffrua"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be342",
+      "symbol": "Po",
+      "name": "Poloniy",
+      "category": "Yarim metall",
+      "discovBy": "Kyuri, Sklodovska-Kyuri",
+      "discovYear": "1898",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 6p4 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p4"
+      },
+      "elementProp": {
+        "atomicNumber": 84,
+        "atomicMass": 208.9824
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Per Kyuri, Mari Sklodovska-Kyuri"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be343",
+      "symbol": "At",
+      "name": "Astat",
+      "category": "Galogen",
+      "discovBy": "Lekok de Buabodran",
+      "discovYear": "1940",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 6p5 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p5"
+      },
+      "elementProp": {
+        "atomicNumber": 85,
+        "atomicMass": 209.9871
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Pol Emil Lekok de Buabodran"
+    },
+    {
+      "discovCountry": {
+        "name": "Kanada",
+        "code": "CAN"
+      },
+      "_id": "630e0ade1ca9cba12c1be344",
+      "symbol": "Rn",
+      "name": "Radon",
+      "category": "Inert gazi",
+      "discovBy": "Dorn",
+      "discovYear": "1900",
+      "atomicProp": {
+        "electrConfig": "[Xe]4f14 5d10 6s2 6p6 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6"
+      },
+      "elementProp": {
+        "atomicNumber": 86,
+        "atomicMass": 222.0176
+      },
+      "flag": "Canada.png",
+      "discovYearFullName": "Fridrix Ernst Dorn"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be345",
+      "symbol": "Fr",
+      "name": "Fransiy",
+      "category": "Ishqoriy",
+      "discovBy": "Perey",
+      "discovYear": "1939",
+      "atomicProp": {
+        "electrConfig": "[Rn]7s1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s1"
+      },
+      "elementProp": {
+        "atomicNumber": 87,
+        "atomicMass": 223.0197
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Margarita Perey"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be346",
+      "symbol": "Ra",
+      "name": "Radiy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "Kyuri, Sklodovska-Kyuri",
+      "discovYear": "1898",
+      "atomicProp": {
+        "electrConfig": "[Rn]7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2"
+      },
+      "elementProp": {
+        "atomicNumber": 88,
+        "atomicMass": 226.0254
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Per Kyuri, Mari Sklodovska-Kyuri"
+    },
+    {
+      "discovCountry": {
+        "name": "Fransiya ",
+        "code": "FRA"
+      },
+      "_id": "630e0ade1ca9cba12c1be347",
+      "symbol": "Ac",
+      "name": "Aktiniy",
+      "category": "Aktinoid",
+      "discovBy": "Debyern",
+      "discovYear": "1899",
+      "atomicProp": {
+        "electrConfig": "[Rn]6d1 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1"
+      },
+      "elementProp": {
+        "atomicNumber": 89,
+        "atomicMass": 227.0278
+      },
+      "flag": "France.png",
+      "discovYearFullName": "Andre-Lui Debyern"
+    },
+    {
+      "discovCountry": {
+        "name": "Shvetsiya",
+        "code": "SWE"
+      },
+      "_id": "630e0ade1ca9cba12c1be348",
+      "symbol": "Th",
+      "name": "Toriy",
+      "category": "Aktinoid",
+      "discovBy": "Berselius",
+      "discovYear": "1828",
+      "atomicProp": {
+        "electrConfig": "[Rn]6d2 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d2"
+      },
+      "elementProp": {
+        "atomicNumber": 90,
+        "atomicMass": 232.038
+      },
+      "flag": "Sweden.png",
+      "discovYearFullName": "Berselius, Yons Yakob"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be349",
+      "symbol": "Pa",
+      "name": "Protaktini",
+      "category": "Aktinoid",
+      "discovBy": "Xan, Meytner, Soddi",
+      "discovYear": "1918",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f2 6d1 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1 5f2"
+      },
+      "elementProp": {
+        "atomicNumber": 91,
+        "atomicMass": 231.0358
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Otto Xan, Liza Meytner, Frederik Soddi"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be34a",
+      "symbol": "U",
+      "name": "Uran",
+      "category": "Aktinoid",
+      "discovBy": "Klaprot",
+      "discovYear": "1789",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f3 6d1 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1 5f3"
+      },
+      "elementProp": {
+        "atomicNumber": 92,
+        "atomicMass": 238.0289
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Martin Geynrix Klaprot"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be34b",
+      "symbol": "Np",
+      "name": "Neptuniy",
+      "category": "Aktinoid",
+      "discovBy": null,
+      "discovYear": "1940",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f4 6d1 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1 5f4"
+      },
+      "elementProp": {
+        "atomicNumber": 93,
+        "atomicMass": 237.0482
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "----"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be34c",
+      "symbol": "Pu",
+      "name": "Plutoniy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1940",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f6 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f6"
+      },
+      "elementProp": {
+        "atomicNumber": 94,
+        "atomicMass": 244.0642
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be34d",
+      "symbol": "Am",
+      "name": "Amerisiy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1944",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f7 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f7"
+      },
+      "elementProp": {
+        "atomicNumber": 95,
+        "atomicMass": 243.0614
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be34e",
+      "symbol": "Cm",
+      "name": "Kyuriy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1944",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f7 6d1 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 6d1 5f7"
+      },
+      "elementProp": {
+        "atomicNumber": 96,
+        "atomicMass": 247.0703
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be34f",
+      "symbol": "Bk",
+      "name": "Berkliy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1949",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f9 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f9"
+      },
+      "elementProp": {
+        "atomicNumber": 97,
+        "atomicMass": 247.0703
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be350",
+      "symbol": "Cf",
+      "name": "Kaliforniy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1950",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f10 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f10"
+      },
+      "elementProp": {
+        "atomicNumber": 98,
+        "atomicMass": 251.0796
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be351",
+      "symbol": "Es",
+      "name": "Eynshteyniy",
+      "category": "Aktinoid",
+      "discovBy": "Giorso",
+      "discovYear": "1952",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f11 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f11"
+      },
+      "elementProp": {
+        "atomicNumber": 99,
+        "atomicMass": 252.0829
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Albert Giorso"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be352",
+      "symbol": "Fm",
+      "name": "Fermiy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1952",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f12 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f12"
+      },
+      "elementProp": {
+        "atomicNumber": 100,
+        "atomicMass": 257.0951
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be353",
+      "symbol": "Md",
+      "name": "Mendeleviy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1955",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f13 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f13"
+      },
+      "elementProp": {
+        "atomicNumber": 101,
+        "atomicMass": 258.0951
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "Sovet Sotsialistik Respublikalari Ittifoqi",
+        "code": "SUN"
+      },
+      "_id": "630e0ade1ca9cba12c1be354",
+      "symbol": "No",
+      "name": "Nobeliy",
+      "category": "Aktinoid",
+      "discovBy": "Siborg",
+      "discovYear": "1965",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14"
+      },
+      "elementProp": {
+        "atomicNumber": 102,
+        "atomicMass": 259.1009
+      },
+      "flag": "Russia.png",
+      "discovYearFullName": "Glenn Teodor Siborg"
+    },
+    {
+      "discovCountry": {
+        "name": "Sovet Sotsialistik Respublikalari Ittifoqi, AQSh ",
+        "code": "SUN, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be355",
+      "symbol": "Lr",
+      "name": "Lourensiy",
+      "category": "Aktinoid",
+      "discovBy": "Giorso",
+      "discovYear": "1961",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d1 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d1"
+      },
+      "elementProp": {
+        "atomicNumber": 103,
+        "atomicMass": 266.1193
+      },
+      "flag": "USSR-USA.png",
+      "discovYearFullName": "Albert Giorso"
+    },
+    {
+      "discovCountry": {
+        "name": "Sovet Sotsialistik Respublikalari Ittifoqi, AQSh ",
+        "code": "SUN, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be356",
+      "symbol": "Rf",
+      "name": "Rezerfordiy",
+      "category": "Oraliq element",
+      "discovBy": "Flyorov",
+      "discovYear": "1964",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d2 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d2"
+      },
+      "elementProp": {
+        "atomicNumber": 104,
+        "atomicMass": 261.1087
+      },
+      "flag": "USSR-USA.png",
+      "discovYearFullName": "Georgiy Nikolayevich Flyorov"
+    },
+    {
+      "discovCountry": {
+        "name": "Sovet Sotsialistik Respublikalari Ittifoqi, AQSh ",
+        "code": "SUN, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be357",
+      "symbol": "Db",
+      "name": "Dubniy",
+      "category": "Oraliq element",
+      "discovBy": "Flyorov",
+      "discovYear": "1968",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d3 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d3"
+      },
+      "elementProp": {
+        "atomicNumber": 105,
+        "atomicMass": 262.1138
+      },
+      "flag": "USSR-USA.png",
+      "discovYearFullName": "Georgiy Nikolayevich Flyorov"
+    },
+    {
+      "discovCountry": {
+        "name": "AQSh ",
+        "code": "USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be358",
+      "symbol": "Sg",
+      "name": "Siborgoviy",
+      "category": "Oraliq element",
+      "discovBy": "Flyorov",
+      "discovYear": "1974",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d4 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d4"
+      },
+      "elementProp": {
+        "atomicNumber": 106,
+        "atomicMass": 263.1182
+      },
+      "flag": "USA.png",
+      "discovYearFullName": "Georgiy Nikolayevich Flyorov"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be359",
+      "symbol": "Bh",
+      "name": "Boriy",
+      "category": "Oraliq element",
+      "discovBy": "Armbruster, Munzenber",
+      "discovYear": "1981",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d5 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d5"
+      },
+      "elementProp": {
+        "atomicNumber": 107,
+        "atomicMass": 262.1229
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "Piter Armbruster, Gotfrid Munzenber"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be35a",
+      "symbol": "Hs",
+      "name": "Hassiy",
+      "category": "Oraliq element",
+      "discovBy": "GSI",
+      "discovYear": "1984",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d6 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d6"
+      },
+      "elementProp": {
+        "atomicNumber": 108,
+        "atomicMass": 269
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "GSI (Ogʻir ionlar instituti)"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be35b",
+      "symbol": "Mt",
+      "name": "Meytneriy",
+      "category": "Oraliq element",
+      "discovBy": "GSI",
+      "discovYear": "1982",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d7 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d7"
+      },
+      "elementProp": {
+        "atomicNumber": 109,
+        "atomicMass": 278
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "GSI (Ogʻir ionlar instituti)"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be35c",
+      "symbol": "Ds",
+      "name": "Darmshtadtiy",
+      "category": "Oraliq element",
+      "discovBy": "GSI",
+      "discovYear": "1994",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d8 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d8"
+      },
+      "elementProp": {
+        "atomicNumber": 110,
+        "atomicMass": 281.162
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "GSI (Ogʻir ionlar instituti)"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be35d",
+      "symbol": "Rg",
+      "name": "Rentgeniy",
+      "category": "Oraliq element",
+      "discovBy": "GSI",
+      "discovYear": "1994",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d9 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d9"
+      },
+      "elementProp": {
+        "atomicNumber": 111,
+        "atomicMass": 281.1684
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "GSI (Ogʻir ionlar instituti)"
+    },
+    {
+      "discovCountry": {
+        "name": "Germaniya",
+        "code": "DEU"
+      },
+      "_id": "630e0ade1ca9cba12c1be35e",
+      "symbol": "Cn",
+      "name": "Kopernik",
+      "category": "Oraliq element",
+      "discovBy": "GSI",
+      "discovYear": "1996",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10"
+      },
+      "elementProp": {
+        "atomicNumber": 112,
+        "atomicMass": 285.1744
+      },
+      "flag": "Germany.png",
+      "discovYearFullName": "GSI (Ogʻir ionlar instituti)"
+    },
+    {
+      "discovCountry": {
+        "name": "Yaponiya",
+        "code": "JPN"
+      },
+      "_id": "630e0ade1ca9cba12c1be35f",
+      "symbol": "Nh",
+      "name": "Nixoniy",
+      "category": "Metallsimon",
+      "discovBy": "RIKEN",
+      "discovYear": "2004",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 7p1 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p1"
+      },
+      "elementProp": {
+        "atomicNumber": 113,
+        "atomicMass": 286.181
+      },
+      "flag": "Japan.png",
+      "discovYearFullName": "RIKEN (Fizik-kimyoviy tadqiqotlar instituti)"
+    },
+    {
+      "discovCountry": {
+        "name": "Rossiya, AQSh ",
+        "code": "RUS, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be360",
+      "symbol": "Fl",
+      "name": "Fleroviy",
+      "category": "Metallsimon",
+      "discovBy": "YTBI",
+      "discovYear": "1998",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 7p2 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p2"
+      },
+      "elementProp": {
+        "atomicNumber": 114,
+        "atomicMass": 287.1904
+      },
+      "flag": "Russia-USA.png",
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI)"
+    },
+    {
+      "discovCountry": {
+        "name": "Rossiya, AQSh ",
+        "code": "RUS, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be361",
+      "symbol": "Mc",
+      "name": "Moskoviy",
+      "category": "Metallsimon",
+      "discovBy": "YTBI, LLML",
+      "discovYear": "2003",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 7p3 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p3"
+      },
+      "elementProp": {
+        "atomicNumber": 115,
+        "atomicMass": 288.1943
+      },
+      "flag": "Russia-USA.png",
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI), E. Lourens nomidagi Livermor milliy laboratoriyasi"
+    },
+    {
+      "discovCountry": {
+        "name": "Rossiya, AQSh ",
+        "code": "RUS, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be362",
+      "symbol": "Lv",
+      "name": "Livermoriy",
+      "category": "Metallsimon",
+      "discovBy": "YTBI, LLML",
+      "discovYear": "2000",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 7p4 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p4"
+      },
+      "elementProp": {
+        "atomicNumber": 116,
+        "atomicMass": 291.2045
+      },
+      "flag": "Russia-USA.png",
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI), E. Lourens nomidagi Livermor milliy laboratoriyasi"
+    },
+    {
+      "discovCountry": {
+        "name": "Rossiya, AQSh ",
+        "code": "RUS, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be363",
+      "symbol": "Ts",
+      "name": "Tennessin",
+      "category": "Galogen",
+      "discovBy": "YTBI",
+      "discovYear": "2010",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 7p5 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p5"
+      },
+      "elementProp": {
+        "atomicNumber": 117,
+        "atomicMass": 294.2104
+      },
+      "flag": "Russia-USA.png",
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI)"
+    },
+    {
+      "discovCountry": {
+        "name": "Rossiya, AQSh ",
+        "code": "RUS, USA"
+      },
+      "_id": "630e0ade1ca9cba12c1be364",
+      "symbol": "Og",
+      "name": "Oganeson",
+      "category": "Inert gazi",
+      "discovBy": "YTBI",
+      "discovYear": "2002-2005",
+      "atomicProp": {
+        "electrConfig": "[Rn]5f14 6d10 7s2 7p6 = 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5d10 6p6 7s2 5f14 6d10 7p6"
+      },
+      "elementProp": {
+        "atomicNumber": 118,
+        "atomicMass": 294.2139
+      },
+      "flag": "Russia-USA.png",
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI)"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be365",
+      "symbol": "Uue",
+      "name": "Ununenniy",
+      "category": "Ishqoriy",
+      "discovBy": "YTBI, LLML",
+      "discovYear": "≈2006",
+      "atomicProp": {
+        "electrConfig": "[Og]8s1"
+      },
+      "elementProp": {
+        "atomicNumber": 119,
+        "atomicMass": 316
+      },
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI), E. Lourens nomidagi Livermor milliy laboratoriyasi"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be366",
+      "symbol": "Ubn",
+      "name": "Unbiniliy",
+      "category": "Ishqoriy-yer",
+      "discovBy": "YTBI, RIKEN (理研)",
+      "discovYear": "≈2006-2008",
+      "atomicProp": {
+        "electrConfig": "[Og]8s2"
+      },
+      "elementProp": {
+        "atomicNumber": 120,
+        "atomicMass": 320
+      },
+      "discovYearFullName": "Yadroviy tadqiqotlar birlashgan instituti (YTBI), RIKEN (理研)"
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be367",
+      "symbol": "Ubu",
+      "name": "Unbiuniy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "≈2010",
+      "atomicProp": {
+        "electrConfig": "[Og]8s2 8p1"
+      },
+      "elementProp": {
+        "atomicNumber": 121,
+        "atomicMass": 320
+      },
+      "discovYearFullName": null
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be368",
+      "symbol": "Ubb",
+      "name": "Unbibiy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "≈2008",
+      "atomicProp": {
+        "electrConfig": "[Og]7d1 8s2 8p1"
+      },
+      "elementProp": {
+        "atomicNumber": 122,
+        "atomicMass": 321
+      },
+      "discovYearFullName": null
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be369",
+      "symbol": "Ubt",
+      "name": "Unbitriy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "≈2013",
+      "atomicProp": {
+        "electrConfig": "[Og]6f1 7d1 8s2 8p1"
+      },
+      "elementProp": {
+        "atomicNumber": 123,
+        "atomicMass": 325
+      },
+      "discovYearFullName": null
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be36a",
+      "symbol": "Ubq",
+      "name": "Unbikvadiy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "≈2006",
+      "atomicProp": {
+        "electrConfig": "[Og]6f3 8s2 8p1"
+      },
+      "elementProp": {
+        "atomicNumber": 124,
+        "atomicMass": 330
+      },
+      "discovYearFullName": null
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be36b",
+      "symbol": "Ubp",
+      "name": "Unbipentiy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "≈2010",
+      "atomicProp": {
+        "electrConfig": "[Og]5g1 6f2 8s2 8p2"
+      },
+      "elementProp": {
+        "atomicNumber": 125,
+        "atomicMass": 332
+      },
+      "discovYearFullName": null
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be36c",
+      "symbol": "Ubh",
+      "name": "Unbigeksiy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "----",
+      "atomicProp": {
+        "electrConfig": "[Og]5g2 6f3 8s2 8p1"
+      },
+      "elementProp": {
+        "atomicNumber": 126,
+        "atomicMass": 334
+      },
+      "discovYearFullName": null
+    },
+    {
+      "discovCountry": {
+        "name": null,
+        "code": ""
+      },
+      "_id": "630e0ade1ca9cba12c1be36d",
+      "symbol": "Ubs",
+      "name": "Unbiseptiy",
+      "category": "Superaktinoid",
+      "discovBy": null,
+      "discovYear": "----",
+      "atomicProp": {
+        "electrConfig": "[Og]5g3 6f2 8s2 8p2"
+      },
+      "elementProp": {
+        "atomicNumber": 127,
+        "atomicMass": 335
+      },
+      "discovYearFullName": null
+    }
+  ],
+  "message": "findAll"
+}
